@@ -27,59 +27,18 @@ My research spans a broad range of vulnerability classes and application securit
 
 ## Selected Projects
 
-### Security Research Labs
-[Repository](https://github.com/yassinelsharkawy/labs)
+- **[Security Research Labs](https://github.com/yassinelsharkawy/labs)** — Designed a curriculum of 25 isolated labs across five web-security areas, based on vulnerability patterns encountered in practical research. Each lab supports controlled reproduction, root-cause analysis, patching, and remediation validation.
+- **[Efficient Network Intrusion Detection Pipeline](https://github.com/yassinelsharkawy/Efficient-Network-Intrusion-Detection-Pipeline)** — Built an end-to-end machine-learning workflow on CSE-CIC-IDS2018, comparing a tuned Random Forest baseline with a soft-voting ensemble across detection performance, false alarms, and training cost.
+- **[LoRA-Based Invoice Information Extraction](https://github.com/yassinelsharkawy/LoRA-Adapted-Phi-for-Structured-Information-Extraction-from-Invoices-a-Parameter-Efficient-Approach)** — Fine-tuned Microsoft Phi-2 with LoRA and 4-bit quantization to convert invoice text into structured JSON, with data preparation, tokenization, validation, and output evaluation.
+- **[PSO Variants for Clustering](https://github.com/yassinelsharkawy/Comparative-Analysis-of-Particle-Swarm-Optimization-Variants-for-Clustering)** — Developed an interactive comparison of six Particle Swarm Optimization variants against K-Means, featuring parameter-grid search, PCA projections, and inertia and silhouette evaluation.
+- **[Network Security Toolkit](https://github.com/yassinelsharkawy/Network_Security)** — Developed a Python toolkit for network scanning, packet sniffing, traffic analysis, ARP-spoofing detection, and related utilities for authorized assessment.
+- **[Windows x64 Native API and CRT-Free Runtime](https://github.com/yassinelsharkawy/native-win-runtime)** — Engineered a C++ systems project involving Windows x64 internals, Native API resolution, PE export parsing, assembly-based system-call dispatch, and a freestanding runtime, with relevance to reverse engineering and security monitoring.
+- **[PDF JavaScript Behavior and Viewer-Security Testing](https://github.com/yassinelsharkawy/PDF-JavaScript-Behavior-and-Viewer-Security-Testing)** — Created a reproducible PDF test-artifact generator to compare document-level JavaScript behavior with a static control and distinguish viewer behavior from demonstrated application-level vulnerabilities.
+- **[Waste Classification Using Computer Vision](https://github.com/yassinelsharkawy/ComputerVisionProject)** — Implemented an image-classification pipeline combining preprocessing and augmentation, segmentation, feature extraction, classification, and evaluation with classical image processing and deep features.
+- **[Deep Learning for Raw-Material Classification](https://github.com/yassinelsharkawy/Neural-Networks-Deep-Learning-Project)** — Combined a ResNet architecture implemented from scratch with transfer learning and fine-tuning using Xception and DenseNet121, supported by image augmentation and classification metrics.
+- **[Digit Recognition and Vehicle CO₂ Prediction](https://github.com/yassinelsharkawy/Advanced-Machine-Learning-Supervised-Learning-for-Digit-Recognition-and-Vehicle-CO2-Prediction)** — Applied decision trees and neural networks to MNIST digit recognition and support vector machines to vehicle CO₂-emissions prediction.
+- **Multimodal Scientific Paper Summarization** — Led an undergraduate graduation project integrating transformer architectures, vision-language models, and retrieval-augmented generation (RAG), supported by Docker-based microservices and Microsoft Azure infrastructure.
 
-A curriculum of 25 isolated labs across five areas of web security, designed from patterns encountered in practical security research. The labs let learners reproduce vulnerabilities, investigate root causes, switch between vulnerable and patched implementations, and verify whether remediation addresses the underlying defect. I developed the labs to make security research teachable through controlled, practice-based exercises rather than theory alone.
-
-### Efficient Network Intrusion Detection Pipeline
-[Repository](https://github.com/yassinelsharkawy/Efficient-Network-Intrusion-Detection-Pipeline)
-
-An end-to-end machine-learning workflow using the CSE-CIC-IDS2018 dataset. It compares a tuned Random Forest baseline with a soft-voting ensemble, documenting preprocessing, feature analysis, model evaluation, and trade-offs among detection rate, false alarms, and training cost.
-
-### LoRA-Based Invoice Information Extraction
-[Repository](https://github.com/yassinelsharkawy/LoRA-Adapted-Phi-for-Structured-Information-Extraction-from-Invoices-a-Parameter-Efficient-Approach)
-
-A parameter-efficient fine-tuning experiment using Microsoft Phi-2, LoRA, and 4-bit quantization to transform invoice text into structured JSON. The workflow covers dataset preparation, training and validation splits, tokenization, fine-tuning, and evaluation of generated structured outputs.
-
-### Comparative Analysis of Particle Swarm Optimization Variants for Clustering
-[Repository](https://github.com/yassinelsharkawy/Comparative-Analysis-of-Particle-Swarm-Optimization-Variants-for-Clustering)
-
-An interactive framework for comparing six Particle Swarm Optimization variants with a K-Means baseline. The application supports configurable optimization parameters, grid-based parameter search, PCA projections, and complementary evaluation with inertia and silhouette scores, making algorithm behavior easier to inspect under consistent experimental conditions.
-
-### Network Security Toolkit
-[Repository](https://github.com/yassinelsharkawy/Network_Security)
-
-A Python toolkit bringing together network scanning, packet sniffing, traffic analysis, ARP-spoofing detection, and related network security utilities. It is intended for authorized assessment and controlled lab environments.
-
-### Windows x64 Native API and CRT-Free Runtime
-[Repository](https://github.com/yassinelsharkawy/native-win-runtime)
-
-A C++ systems-engineering project exploring Windows x64 internals, Native API resolution, PE export parsing, assembly-based system-call dispatch, and a freestanding runtime without the standard C runtime. It supports study of low-level execution behavior, reverse engineering, and security-monitoring assumptions.
-
-### PDF JavaScript Behavior and Viewer-Security Testing
-[Repository](https://github.com/yassinelsharkawy/PDF-JavaScript-Behavior-and-Viewer-Security-Testing)
-
-A small, reproducible test-artifact generator for examining how PDF viewers handle document-level JavaScript. It compares a benign alert demonstration with a static control and includes structural tests, helping distinguish observed viewer behavior from claims of application-level exploitability.
-
-### Waste Classification Using Computer Vision
-[Repository](https://github.com/yassinelsharkawy/ComputerVisionProject)
-
-An image-classification pipeline for waste categorization, organized into preprocessing and augmentation, segmentation, feature extraction, classification, and evaluation. The implementation combines classical image-processing methods with deep feature extraction.
-
-### Deep Learning for Raw-Material Classification
-[Repository](https://github.com/yassinelsharkawy/Neural-Networks-Deep-Learning-Project)
-
-An image-classification study combining a ResNet architecture implemented from scratch with transfer learning and fine-tuning using Xception and DenseNet121. The workflow includes image augmentation and evaluation through classification metrics and diagnostic plots.
-
-### Supervised Learning: Digit Recognition and Vehicle CO₂ Prediction
-[Repository](https://github.com/yassinelsharkawy/Advanced-Machine-Learning-Supervised-Learning-for-Digit-Recognition-and-Vehicle-CO2-Prediction)
-
-A course project applying decision trees and artificial neural networks to MNIST digit recognition and support vector machines to vehicle CO₂-emissions prediction. It explores classification and regression workflows across image and structured data.
-
-### Multimodal Scientific Paper Summarization
-
-My undergraduate graduation project, completed as team leader under faculty supervision, combined transformer architectures, vision-language models, and retrieval-augmented generation (RAG) for scientific paper summarization. The implementation integrated AI components with Docker-based microservices and cloud infrastructure on Microsoft Azure.
 
 ## Teaching and Knowledge Sharing
 
