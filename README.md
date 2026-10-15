@@ -10,7 +10,7 @@ I work as a security researcher and cybersecurity engineer, with practical exper
 
 **First author · Peer-reviewed and accepted at an IEEE conference · Conference ID #71863**
 
-**Read the Research paper:** [Evaluating Behavioral Context for Interpretable IAM Policy Risk Scoring in Cloud Environments](https://arxiv.org/abs/2610.07345)
+**Read the Research Paper:** [Evaluating Behavioral Context for Interpretable IAM Policy Risk Scoring in Cloud Environments](https://arxiv.org/abs/2610.07345)
 
 This work examines whether behavioral and environmental signals improve the prioritization of cloud IAM policy risks beyond information contained in policy rules and effective permissions alone. I developed the experimental evaluation pipeline and constructed **AWS-IAM-ContextBench**, a benchmark of 534 AWS experimental observations covering policy, environmental, and behavioral scenarios. The study compares three Explainable Boosting Machine models under leakage-controlled grouped cross-validation, including a full-context model enriched with CloudTrail telemetry. In the reported evaluation, adding behavioral context reduced mean absolute error by 74% and yielded a Spearman rank correlation of 0.973 against reference analyst-priority scores. The conference proceedings have been submitted for inclusion in IEEE Xplore.
 
