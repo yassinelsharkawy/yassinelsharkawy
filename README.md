@@ -37,7 +37,7 @@ My research spans a broad range of vulnerability classes and application securit
 - **[Waste Classification Using Computer Vision](https://github.com/yassinelsharkawy/ComputerVisionProject)** — Implemented an image-classification pipeline combining preprocessing and augmentation, segmentation, feature extraction, classification, and evaluation with classical image processing and deep features.
 - **[Deep Learning for Raw-Material Classification](https://github.com/yassinelsharkawy/Neural-Networks-Deep-Learning-Project)** — Combined a ResNet architecture implemented from scratch with transfer learning and fine-tuning using Xception and DenseNet121, supported by image augmentation and classification metrics.
 - **[Digit Recognition and Vehicle CO₂ Prediction](https://github.com/yassinelsharkawy/Advanced-Machine-Learning-Supervised-Learning-for-Digit-Recognition-and-Vehicle-CO2-Prediction)** — Applied decision trees and neural networks to MNIST digit recognition and support vector machines to vehicle CO₂-emissions prediction.
-- **Multimodal Scientific Paper Summarization** — Led an undergraduate graduation project integrating transformer architectures, vision-language models, and retrieval-augmented generation (RAG), supported by Docker-based microservices and Microsoft Azure infrastructure.
+- [Multimodal Scientific Paper Summarization](https://github.com/yassinelsharkawy/Graduation_Project) — Led an undergraduate graduation project integrating transformer architectures, vision-language models, and retrieval-augmented generation (RAG), supported by Docker-based microservices and Microsoft Azure infrastructure.
 
 
 ## Teaching and Knowledge Sharing
