@@ -4,16 +4,13 @@
 
 I work as a security researcher and cybersecurity engineer, with practical experience in security research, and security assessment. My research interests lie at the intersection of cybersecurity, machine learning, and security engineering, particularly in developing interpretable and empirically evaluated methods for security analysis, threat detection, and risk prioritization in real-world systems.
 
-- **Research paper:** [Evaluating Behavioral Context for Interpretable IAM Policy Risk Scoring in Cloud Environments](https://arxiv.org/abs/2610.07345)
-- **Security research:** [Security research portfolio and program results](https://hackerone.com/yassinelsharkawy)
-
 ## Research and Publication
 
 ### Evaluating Behavioral Context for Interpretable IAM Policy Risk Scoring in Cloud Environments
 
 **First author · Peer-reviewed and accepted at an IEEE conference · Conference ID #71863**
 
-[Read the paper on arXiv](https://arxiv.org/abs/2610.07345)
+**Read the Research paper:** [Evaluating Behavioral Context for Interpretable IAM Policy Risk Scoring in Cloud Environments](https://arxiv.org/abs/2610.07345)
 
 This work examines whether behavioral and environmental signals improve the prioritization of cloud IAM policy risks beyond information contained in policy rules and effective permissions alone. I developed the experimental evaluation pipeline and constructed **AWS-IAM-ContextBench**, a benchmark of 534 AWS experimental observations covering policy, environmental, and behavioral scenarios. The study compares three Explainable Boosting Machine models under leakage-controlled grouped cross-validation, including a full-context model enriched with CloudTrail telemetry. In the reported evaluation, adding behavioral context reduced mean absolute error by 74% and yielded a Spearman rank correlation of 0.973 against reference analyst-priority scores. The conference proceedings have been submitted for inclusion in IEEE Xplore.
 
